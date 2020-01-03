@@ -1,1 +1,2 @@
-# java-ocr-demo
+# Ubuntu
+    sudo apt install tesseract-ocr
